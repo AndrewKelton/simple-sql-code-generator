@@ -1,3 +1,4 @@
 KEY
 venv
-main.py
+# main.py
+.env
